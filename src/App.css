@@ -1,0 +1,22 @@
+.active {
+    background-color: #9B9B9B;
+}
+
+.disable {
+    background-color: white;
+}
+
+.actualdisplay {
+    background: url('./assets/phone/polished.webp');
+    background-size: 101%;
+    background-repeat: no-repeat;
+    background-position: 0%;
+}
+
+@media only screen and (max-width: 768px) {
+    .actualdisplay {
+        background-size: 101%;
+        background-repeat: no-repeat;
+        background-position-y: 8px;
+    }
+}
