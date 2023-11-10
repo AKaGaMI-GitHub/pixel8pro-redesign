@@ -5,9 +5,8 @@
   font-family: 'Roboto';
   src: url(https://fonts.googleapis.com/css?family=Roboto) format("woff2"), 
     url(https://fonts.googleapis.com/css?family=Roboto) format("woff"), 
+    url(https://fonts.googleapis.com/css?family=Roboto) format("truetype"), 
+    url(https://fonts.googleapis.com/css?family=Roboto) format("svg"); 
+    font-weight: normal;
+    font-style: normal;
 }
-
-:root {
-  font-family: 'Roboto';
-}
-
